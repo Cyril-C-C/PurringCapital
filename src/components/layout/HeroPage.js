@@ -6,11 +6,11 @@ const HeroPage = () => {
     <Fragment>
       <section className='text-box' id='text-box'>
         <h1>
-          Bespoke Tech Solutions{' '}
-          <span style={{ color: '#f44336' }}>and Consulting</span>
+          Outstanding Investment{' '}
+          <span style={{ color: '#f44336' }}>Intelligence and Strategy</span>
         </h1>
         <p>
-          We are one of the best brands that brings your digital dreams to
+          We are committed in leading financial freedom to
           exciting realities.
         </p>
         <Link to='/About' className='hero-btn' id='hero-btn'>
