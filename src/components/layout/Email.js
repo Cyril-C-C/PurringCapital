@@ -3,9 +3,9 @@ import emailjs from 'emailjs-com';
 import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import Swal from 'sweetalert2';
 
-// const SERVICE_ID = 'service_yzwkeem';
-// const TEMPLATE_ID = 'template_a3eme37';
-// const USER_ID = '35kRJuyuyCCuuy7e2';
+const SERVICE_ID = 'service_yzwkeem';
+const TEMPLATE_ID = 'template_a3eme37';
+const USER_ID = '35kRJuyuyCCuuy7e2';
 
 const Email = () => {
   const handleOnSubmit = (e) => {
