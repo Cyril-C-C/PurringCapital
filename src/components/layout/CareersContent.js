@@ -14,12 +14,10 @@ const CareersContent = () => {
             add values to our community.
             <br />
             <br />
-            Potential applicants whose skill sets align to: Website Development,
-            Mobile App Development, Artificial Intelligence (AI) solutions,
-            Continuous Integration (CI) and Continuous Delivery (CD) solutions,
-            Intelligent Chatbots, Payment Solutions, User Interface (UI) and
-            User Experience (UX) solutions should reach out to our Human
-            Resource department to find out if there are job openings.
+            Potential applicants whose skill sets align to: Investment Law,
+            Accounting, Economics, Banking and Finance, and Tax should reach out
+            to our Human Resource department to find out if there are job
+            openings.
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Our Focus</span> ~
@@ -29,7 +27,7 @@ const CareersContent = () => {
             <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
           </p>
           <a
-            href='https://www.linkedin.com/company/purring/jobs/?viewAsMember=true'
+            href='https://www.linkedin.com/company/purringca/jobs/?viewAsMember=true'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

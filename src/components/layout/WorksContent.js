@@ -10,26 +10,27 @@ const WorksContent = () => {
             <span style={{ color: '#f44336' }}>You Deserve</span>
           </h1>
           <p>
-            Every project is born from a special set of challenges. We are proud
-            of each and every digital product we create, whether for a
-            publisher, nonprofit, museum, or brand. Organizations partner with
-            us to unlock solutions catered for their needs today and flexible
-            for what they will want tomorrow.
+            We diversify our investment portfolios all across conservative
+            through volatile to very volatile investment opportunities in
+            sustainable approach.
             <br />
             <br />
-            Purring has experts in: Angular, Data Engineering, DevOps, Golang,
-            iOS, Java, Python, php, QA, React Native, React.js, Vue.js, Ruby,
-            Salesforce, Climate Intelligence.
+            Consistency and great timing shape how we build our vision, culture
+            and portfolios. We have goals, through which we meet by best
+            strategies and intelligences.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>Founded</span> ~ 2021.
+            Purring Capital has invested in: Technology Company.
+            <br />
+            <br />
+            <span style={{ color: '#f44336' }}>Founded</span> ~ 2017.
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Specialties</span> ~ General
             Contracts and Technology Services.
           </p>
           <a
-            href='https://www.linkedin.com/company/purring'
+            href='https://www.linkedin.com/company/purringca'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

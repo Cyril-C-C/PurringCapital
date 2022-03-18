@@ -6,24 +6,20 @@ const LaptopVideo = () => {
       <section className='row-main' id='row-main'>
         <section className='about-col-main' id='about-coll-main'>
           <h1>
-            You Have The Vision;{' '}
-            <span style={{ color: '#f44336' }}>
-              We Have The People And Technology
-            </span>
+            Our Vision;{' '}
+            <span style={{ color: '#f44336' }}>Mission And Goals</span>
           </h1>
           <p>
-            What about offshoring and nearshoring? Why pay US rates when you can
-            get the same work done offshore for a quarter of the cost?
+            Our vision is to play roles and become one of key and successful
+            investment companies.
             <br />
             <br />
-            If you have a project or if you are budget sensitive, Purring
-            developers could be a good option.
+            Our Mission is to set remarkable trails as we contribute to our
+            partners, other companies and governmental institutions.
             <br />
             <br />
-            And if you are in search of the right company, where you can achieve
-            excellent results for a fraction of what you would pay a Big
-            Business or Enterprise Class software development and consultancy
-            company, Purring is the right place for you.
+            Our goals are met through elements of consistency, patience, skills
+            and great timing.
             <br />
             <br />
             To your exciting realities...
@@ -36,7 +32,7 @@ const LaptopVideo = () => {
             <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
           </p>
           <a
-            href='https://www.linkedin.com/company/purring/'
+            href='https://www.linkedin.com/company/purringca/'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'

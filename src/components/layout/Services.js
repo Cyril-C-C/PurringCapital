@@ -4,22 +4,25 @@ const Services = () => {
   return (
     <Fragment>
       <section className='testiomonial'>
-        <h1>Services</h1>
-        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>B2Bs & B2Cs</h1>
+        <h1>Our Investment Intelligence and Strategies</h1>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
+          Core - Satellite Strategy
+        </h1>
         <p>
-          We have the best expertise in proffering unique and best values to
-          businesses and customers with incredible speed, but yet sustainable.
+          We diversify our investment portfolios all across conservative through
+          volatile to very volatile investment opportunities in sustainable
+          approach.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-laptop' id='set' aria-hidden='true' />
+            <i class='fa fa-briefcase' id='set' aria-hidden='true' />
             <section>
-              <span>Web Development</span>
+              <span>Angel Investment</span>
               <hr />
               <p>
-                We create your uniqueness that markets your brands; hence,
-                drives your successes.
+                As we grow, we look forward to playing roles and becoming one of
+                key angel investors.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -32,11 +35,11 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-mobile' id='set' aria-hidden='true' />
             <section>
-              <span>Mobile App Development</span>
+              <span>Partnership & Smart Contracts</span>
               <hr />
               <p>
-                We create impactful mobile applications that are bespoke to your
-                brands and industry.
+                Through collaborations and use of technology, we aim at
+                achieving remarkable success in our undertakings.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -47,13 +50,13 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-desktop' id='set' aria-hidden='true' />
+            <i class='fa fa-envira' id='set' aria-hidden='true' />
             <section>
-              <span>UI/UX Design</span>
+              <span>Risk Management</span>
               <hr />
               <p>
-                We research your suitabilities; and proffer clean and
-                sustainable product designs.
+                Risks in investing are inevitable; but still, they can be
+                mitigated through data collections and analyses.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -67,25 +70,24 @@ const Services = () => {
       <hr />
 
       <section className='testiomonial'>
-        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>B2Bs</h1>
+        <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
+          Dollar - Cost Averaging
+        </h1>
         <p>
-          The success of your business shapes how we build our vision, culture
-          and community. You have the goals; we have the technologies...
+          Consistency and great timing shape how we build our vision, culture
+          and portfolios. We have goals, through which we meet by best
+          strategies and intelligences.
         </p>
 
         <section className='row'>
           <section className='testimonial-col' id='testimonial-col'>
-            <i
-              class='fa fa-assistive-listening-systems'
-              id='set'
-              aria-hidden='true'
-            />
+            <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
             <section>
-              <span>IT Consulting</span>
+              <span>Stocks and Bonds</span>
               <hr />
               <p>
-                Our expertise helps your automations and digitalization,
-                optimise software, and implement lastest tech.
+                Our expertise carefully analyses stocks and bonds investment
+                opportunities before we move to such deals of interest.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -96,13 +98,13 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-cloud' id='set' aria-hidden='true' />
+            <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
             <section>
-              <span>Cloud Computing</span>
+              <span>REITs and Crowdfunding</span>
               <hr />
               <p>
-                We stay at par with world emerging technologies and various tech
-                and business intelligences.
+                We stay at par with world emerging tech, climate and business
+                intelligences when it comes to real estate deals.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
@@ -113,13 +115,13 @@ const Services = () => {
           </section>
 
           <section className='testimonial-col' id='testimonial-col'>
-            <i class='fa fa-globe' id='set' aria-hidden='true' />
+            <i class='fa fa-signal' id='set' aria-hidden='true' />
             <section>
-              <span>General Contracts</span>
+              <span>Crytography</span>
               <hr />
               <p>
-                We position ourselves to tackle and provide incredible and
-                sustainable values and services in all technology spaces.
+                We position, with least portions of our portfolio, to taking
+                best advantages in fungible and non - fungible tokens.
               </p>
               <i className='fa fa-star' id='fa fa-star'></i>
               <i className='fa fa-star' id='fa fa-star'></i>
