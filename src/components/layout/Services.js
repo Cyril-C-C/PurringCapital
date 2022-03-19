@@ -4,9 +4,9 @@ const Services = () => {
   return (
     <Fragment>
       <section className='testiomonial'>
-        <h1>Our Investment Intelligence and Strategies</h1>
+        <h1>Our Strategies</h1>
         <h1 style={{ color: 'red', fontSize: '1.25rem' }}>
-          Core - Satellite Strategy
+          Core - Satellite
         </h1>
         <p>
           We diversify our investment portfolios all across conservative through
