@@ -40,6 +40,8 @@ const TeamContent = () => {
           <img src='Team.jpg' alt='' />
         </section>
       </section>
+      <br />
+      <br />
     </section>
   );
 };
