@@ -522,3 +522,6 @@ Form {
   border-radius: 0.625rem;
   padding: 1.25rem;
 }
+#form-textarea-control-opinion{
+  min-height: 10rem;
+}
