@@ -83,7 +83,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-shopping-basket' id='set' aria-hidden='true' />
             <section>
-              <span>Stocks and Bonds</span>
+              <span>Stocks & Bonds</span>
               <hr />
               <p>
                 Our expertise carefully analyses stocks and bonds investment
@@ -100,7 +100,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-address-card-o' id='set' aria-hidden='true' />
             <section>
-              <span>REITs and Crowdfunding</span>
+              <span>REITs & Crowdfunding</span>
               <hr />
               <p>
                 We stay at par with world emerging tech, climate and business
