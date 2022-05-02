@@ -9,8 +9,8 @@ const Services = () => {
           Core - Satellite
         </h1>
         <p>
-          We diversify our investment portfolios all across conservative through
-          volatile to very volatile investment opportunities in sustainable
+          We diversify our investment portfolios all across conservative, through
+          volatile, to very volatile investment opportunities in sustainable
           approach.
         </p>
 
