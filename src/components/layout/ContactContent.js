@@ -8,21 +8,21 @@ const ContactContent = () => {
           <section>
             <i className='fa fa-home' id='fa fa-home'></i>
             <span>
-              <h5>GRA Road, 123 Building</h5>
-              <p>Lagos, Ikeja, GRA</p>
+              <h5>Chevron Drive, Lekki</h5>
+              <p>Lagos, Lagos State, Nigeria</p>
             </span>
           </section>
           <section>
             <i className='fa fa-phone' id='fa fa-phone'></i>
             <span>
               <h5>+234(0)8117573804</h5>
-              <p>Monday to Friday, 8am to 4pm</p>
+              <p>Monday to Friday, 9am to 5pm</p>
             </span>
           </section>
           <section>
             <i className='fa fa-envelope-o' id='fa fa-envelope-o'></i>
             <span>
-              <h5>purring.co@gmail.com</h5>
+              <h5>purr.us@purringllc.com; purring.co@gmail.com</h5>
               <p>Email us for more information</p>
             </span>
           </section>

@@ -11,7 +11,10 @@ const Floating = () => {
   return (
     <section id='email-modal' className='modal'>
       <section className='modal-content'>
-        <h4 style={{ fontSize: '1.25rem', color: 'red'}}>Purring Email Address</h4>
+        <h4 style={{ fontSize: '1.25rem', color: 'red' }}>
+          Purring Email Addresses
+        </h4>
+        <p>purr.us@purringllc.com</p>
         <p>purring.co@gmail.com</p>
       </section>
       <section className='modal-footer'>

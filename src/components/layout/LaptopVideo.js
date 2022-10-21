@@ -23,13 +23,15 @@ const LaptopVideo = () => {
             <br />
             <br />
             To your exciting realities...
+            <i class='fa fa-trademark' id='fa fa-trademark' />
             <br />
             <br />
             <span style={{ color: '#f44336' }}>Our Focus</span> ~
             Diversity-Inclusion-Belonging (DIB) and Equity.
             <br />
             <br />
-            <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom.
+            <span style={{ color: '#f44336' }}>End - Goal</span> ~ Freedom to
+            all our Esteemed Customers first.
           </p>
           <a
             href='https://www.linkedin.com/company/purringca/'
