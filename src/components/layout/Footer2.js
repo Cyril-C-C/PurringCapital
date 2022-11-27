@@ -59,7 +59,7 @@ const Footer2 = () => {
       <hr />
       <span>
         Copyright <i class='fa fa-copyright' id='fa fa-copyright' /> Purring
-        2022
+        2023
       </span>
       <a href='/PrivatePolicy'>
         <span>Privacy Policy</span>

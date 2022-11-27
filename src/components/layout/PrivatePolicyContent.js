@@ -57,7 +57,7 @@ const PrivatePolicyContent = () => {
             a formal written contract drawn up by Purring's team of solicitors.
           </p>
           <a
-            href='https://www.linkedin.com/company/purring'
+            href='https://www.linkedin.com/company/purringca'
             target='_blank'
             rel='noreferrer'
             className='hero-btn red-btn-main'
