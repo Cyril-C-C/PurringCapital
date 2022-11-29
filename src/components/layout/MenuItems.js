@@ -1,32 +1,32 @@
 export const MenuItems = [
   {
     title: 'Legal Team',
-    path: '/ui-ux',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Accounting',
-    path: '/design',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Economic',
-    path: '/front-end',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Investment',
-    path: '/back-end',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Finance',
-    path: '/ci-cd',
+    path: '/#',
     cName: 'dropdown-link',
   },
   {
     title: 'Tax Team',
-    path: '/testing',
+    path: '/#',
     cName: 'dropdown-link',
   },
 ];
