@@ -52,14 +52,15 @@ const Footer2 = () => {
             target='_blank'
             rel='noreferrer'
           >
-            <i className='fa-brands fa-x-twitter' id='fa-brands fa-x-twitter' />
+            <i className='fa fa-twitter' id='fa fa-x-twitter' />
           </a>
         </section>
       </section>
       <hr />
       <span>
-        Copyright <i class='fa fa-copyright' id='fa fa-copyright' />
-        2021 - 2024 Purring
+        <i class='fa fa-copyright' id='fa fa-copyright' />
+        <span> </span>
+        Copyright 2021 - 2024 Purring. All Rights Reserved.
       </span>
       <a href='/PrivatePolicy'>
         <span>Privacy Policy</span>
