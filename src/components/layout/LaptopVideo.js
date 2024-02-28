@@ -14,7 +14,7 @@ const LaptopVideo = () => {
             investment companies.
             <br />
             <br />
-            Our Mission is to set remarkable trails as we contribute to our
+            Our mission is to set remarkable trails as we contribute to our
             partners, other companies and governmental institutions.
             <br />
             <br />
