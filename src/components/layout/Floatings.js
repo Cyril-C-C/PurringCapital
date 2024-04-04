@@ -12,7 +12,7 @@ const Floatings = () => {
         <section id='phone-modal' className='modal'>
           <section className='modal-content'>
             <h4 style={{ fontSize: '1.25rem', color: 'red'}}>Purring Phone Contact</h4>
-            <p>+234(0)8117573804</p>
+            <p>+234(0)8148153538</p>
           </section>
           <section className='modal-footer'>
             <a

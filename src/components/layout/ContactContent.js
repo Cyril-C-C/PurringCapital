@@ -15,7 +15,7 @@ const ContactContent = () => {
           <section>
             <i className='fa fa-phone' id='fa fa-phone'></i>
             <span>
-              <h5>+234(0)8117573804</h5>
+              <h5>+234(0)8148153538</h5>
               <p>Monday to Friday, 9am to 5pm</p>
             </span>
           </section>
