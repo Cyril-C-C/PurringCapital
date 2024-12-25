@@ -59,7 +59,7 @@ const Footer2 = () => {
       <hr />
       <span>
         <i class='fa fa-copyright' id='fa fa-copyright' />
-        Copyright 2021 - 2024 Purring. All Rights Reserved.
+        Copyright 2021 - 2025 Purring. All Rights Reserved.
       </span>
       <a href='/PrivatePolicy'>
         <span>Privacy Policy</span>
