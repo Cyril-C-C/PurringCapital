@@ -117,7 +117,7 @@ const Services = () => {
           <section className='testimonial-col' id='testimonial-col'>
             <i class='fa fa-signal' id='set' aria-hidden='true' />
             <section>
-              <span>Crytography</span>
+              <span>Cryptography</span>
               <hr />
               <p>
                 We position, with least portions of our portfolio, to taking
